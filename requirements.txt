@@ -1,0 +1,4 @@
+PyAutoGUI==0.9.54
+uiautomation==2.0.18
+black==23.11.0
+uiautomation==2.0.18
